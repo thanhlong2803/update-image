@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\update-images\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\project-company\\update-images\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\update-images\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\project-company\\update-images\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\update-images\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\project-company\\update-images\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\update-images\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "D:\\project-company\\update-images\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\ThanhLong\\.nuget\\packages\\",
-        "outputPath": "D:\\update-images\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "D:\\project-company\\update-images\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
